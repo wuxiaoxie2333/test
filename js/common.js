@@ -1,3 +1,3 @@
-window.onload = function (){
-  console.log('不轻易裂开了');
-}
+window.onload = function () {
+  console.log("我是bug分支创立的");
+};
